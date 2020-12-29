@@ -8,7 +8,7 @@ Run
 ```
 $ python3 scheme
 ```
-in a Terminal within the folder ```scheme_stubbed```
+in a Terminal within the folder ```scheme_stubbed```.
 
 ## Reference
 [CS 61A](https://cs61a.org/)
