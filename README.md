@@ -4,12 +4,10 @@ A Scheme Interpreter Implemented in Python with Start Code from the [CS 61A](htt
 _Only covers problems within the [project](https://cs61a.org/proj/scheme_stubbed/) (including optional ones)._
 
 ## Usage
-Run
+In a Terminal, set the current directory to be the folder ```scheme_stubbed```, and then type:
 ```
-$ python3 scheme
+python3 scheme
 ```
-in a Terminal within the folder ```scheme_stubbed```.
-
 ## Reference
 [CS 61A](https://cs61a.org/)
 
