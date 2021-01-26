@@ -1,7 +1,7 @@
 # PyScheme
-A Scheme Interpreter Implemented in Python with Starter Code from the [CS 61A](https://cs61a.org/) [Scheme Challenge Version Project](https://cs61a.org/proj/scheme_stubbed/).
+A Scheme Interpreter Implemented in Python with Starter Code from the [CS 61A](https://cs61a.org/) [Scheme Challenge Version Project](https://inst.eecs.berkeley.edu/~cs61a/fa20/proj/scheme_stubbed/).
 
-_Only covers features within the [project](https://cs61a.org/proj/scheme_stubbed/) (including optional ones)._
+_Only covers features within the [project](https://inst.eecs.berkeley.edu/~cs61a/fa20/proj/scheme_stubbed/) (including optional ones)._
 
 ## Usage
 In a Terminal, set the current directory to be the folder ```scheme_stubbed```, and then type:
@@ -63,4 +63,4 @@ scm> (eval (cons 'car '('(1 2))))
 ## Reference
 [CS 61A](https://cs61a.org/)
 
-[Scheme Challenge Version](https://cs61a.org/proj/scheme_stubbed/)
+[Scheme Challenge Version](https://inst.eecs.berkeley.edu/~cs61a/fa20/proj/scheme_stubbed/)
