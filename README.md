@@ -6,7 +6,7 @@ _Only covers features within the [project](https://inst.eecs.berkeley.edu/~cs61a
 ## Usage
 In a Terminal, set the current directory to be the folder ```scheme_stubbed```, and then type:
 ```
-python3 scheme
+python3 scheme.py
 ```
 The Scheme prompt will show as:
 ```
